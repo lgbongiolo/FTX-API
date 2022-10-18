@@ -1,7 +1,7 @@
 # FTX-API
 
 ### Description
-- Colect market data throught from FTX API's
+- Colect market data from FTX's API
 
 ### Model Type
 - Python
