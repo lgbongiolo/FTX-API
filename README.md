@@ -1,7 +1,7 @@
 # FTX-API
 
 ### Description
-- Colect market data from FTX's API
+- Collect market data from FTX's API
 
 ### Model Type
 - Python
@@ -10,7 +10,7 @@
 
 # Instructions:
 - Add your private API Key to the .env file
-- Select Market and timeframes 
+- Select Market and time frames 
 
 ### Goals:
 - To connect to FTX API and make buy and sell operations on the platform 
